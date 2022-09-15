@@ -1,1 +1,1 @@
-Nest React Typescript Tailwind CSS
+Nest/React/Typescript/Tailwind CSS/RTK Query/
