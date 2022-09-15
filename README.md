@@ -1,1 +1,1 @@
-Nest/React/Typescript/Tailwind CSS/RTK Query/
+Nest/React/Next.js/Typescript/Tailwind CSS/RTK Query/
