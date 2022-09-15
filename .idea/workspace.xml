@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c037f84f-242e-44c7-800d-dab78f214409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/assets/img/avatar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/assets/img/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/assets/styles/_variebles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/Layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/RightSide/MostPopularVideo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/RightSide/RightSide.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/RightSide/TopChanel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/Sidebar/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/Layout/Sidebar/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/pages/home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/pages/home/WeeklyFeatured/WeeklyFeatured.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/pages/home/recommended/Recommended.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/components/ui/Line.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/providers/AuthProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/services/auth.services.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/pages/_document.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="c037f84f-242e-44c7-800d-dab78f214409" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663234065735</updated>
       <workItem from="1663234069019" duration="5050000" />
-      <workItem from="1663250333430" duration="7309000" />
+      <workItem from="1663250333430" duration="7632000" />
     </task>
     <servers />
   </component>
