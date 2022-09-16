@@ -1,6 +1,6 @@
-import { createContext, FC, PropsWithChildren } from 'react'
+import { createContext, Dispatch, FC, PropsWithChildren, SetStateAction, useState } from 'react'
 
-interface IContext {
+interface IData {
     user: {
         _id: string,
         email: string
@@ -8,16 +8,21 @@ interface IContext {
     accessToken: string
 }
 
-export const AuthContext = createContext<IContext>({
-    user: null,
-    accessToken: ''
-})
+interface IContext extends IData{
+    setData: Dispatch<SetStateAction<IData>> | null
+}
+
+
+export const AuthContext = createContext<IContext>({} as IContext)
 
 export const AuthProvider: FC<PropsWithChildren<unknown>> = ({children}) => {
+    const [data, setData] = useState<IData>({
+        user: null,
+        accessToken: ''
+    })
 
-    const data: IContext
-
-    return <AuthContext.Provider value={data}>
+    return <AuthContext.Provider value={{...data, setData}}>
         {children}
     </AuthContext.Provider>
 };
+

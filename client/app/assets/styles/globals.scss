@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "/variebles";
+//@import "/variebles";
 
 html,
 body {
@@ -21,12 +21,20 @@ a {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+//@media (prefers-color-scheme: dark) {
+//  html {
+//    color-scheme: dark;
+//  }
+//  body {
+//    color: white;
+//    background: black;
+//  }
+//}
+
+#youtube_main {
+  display: flex;
+  flex-wrap: wrap ;
+
+
 }
+
