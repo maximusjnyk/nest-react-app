@@ -21,20 +21,37 @@ a {
   box-sizing: border-box;
 }
 
-//@media (prefers-color-scheme: dark) {
-//  html {
-//    color-scheme: dark;
-//  }
-//  body {
-//    color: white;
-//    background: black;
-//  }
-//}
 
 #youtube_main {
   display: flex;
-  flex-wrap: wrap ;
-
-
+  flex-wrap: wrap;
+}
+.sidebar {
+  width: 20%;
+  padding: 25px;
+  background-color: #F8F8F8;
+}
+.logo {
+  display: block;
+  margin-bottom: 25px;
+}
+.profile_info {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.name {
+   font-size: 20px;
+   margin-bottom: 5px;
+ }
+.location {
+  color: gray;
+  font-size: 18px;
 }
 
+.content {
+  width: 80%;
+}

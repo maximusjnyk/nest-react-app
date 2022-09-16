@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c037f84f-242e-44c7-800d-dab78f214409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/app/hooks/useAuth.ts" afterDir="false" />
+    <list default="true" id="c037f84f-242e-44c7-800d-dab78f214409" name="Changes" comment="frontend continuation">
+      <change afterPath="$PROJECT_DIR$/client/app/assets/styles/old-styles.sass" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/app/assets/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/assets/styles/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/app/components/Layout/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/components/Layout/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/app/components/Layout/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/components/Layout/Sidebar/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/app/components/pages/home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/components/pages/home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/app/providers/AuthProvider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/app/providers/AuthProvider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/_app.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +95,17 @@
       <workItem from="1663250333430" duration="7632000" />
       <workItem from="1663258148477" duration="493000" />
       <workItem from="1663304730115" duration="5508000" />
+      <workItem from="1663310663165" duration="245000" />
+      <workItem from="1663324428861" duration="8068000" />
     </task>
+    <task id="LOCAL-00001" summary="frontend continuation">
+      <created>1663310750480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663310750480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="frontend continuation" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend continuation" />
   </component>
 </project>
